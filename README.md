@@ -4,6 +4,13 @@ This is the open-source edge of the Cripsis DevCo stack: a clean, portfolio-safe
 
 ---
 
+## About Me
+
+I’m the founder of Cripsis DevCo, where I build entropy-driven infrastructure, secure communications logic, and boundary orchestration systems. My current open-source surface is a three-layer chain: a Rust OS-RNG entropy engine, a Go HTTP gateway, and a Python control plane that gates jobs via Keep/Throttle/Kill decisions.
+
+My background combines hands-on systems engineering with operational experience, so I care about code that survives real adversaries, not just benchmarks. I’m comfortable living across Rust, Go, Python, and Linux, wiring telemetry, CI, and clean interfaces between components. If you care about reliability, security, and clear control surfaces, we’re aligned.
+
+
 ## Repos
 
 ### 🔹 krypton-entropy-core (Rust)
