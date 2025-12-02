@@ -1,12 +1,12 @@
-# Cripsis DevCo, LLC — OSS Surface
+# Cripsis Logic — OSS Surface
 
-This is the open-source edge of the Cripsis DevCo stack: a clean, portfolio-safe chain built around OS-level entropy, HTTP wiring, and a Python boundary layer for job governance.
+This is the open-source edge of the Cripsis Logic stack: a clean, portfolio-safe chain built around OS-level entropy, HTTP wiring, and a Python boundary layer for job governance.
 
 ---
 
 ## About Me
 
-I’m the founder of Cripsis DevCo, where I build entropy-driven infrastructure, secure communications logic, and boundary orchestration systems. My current open-source surface is a three-layer chain: a Rust OS-RNG entropy engine, a Go HTTP gateway, and a Python control plane that gates jobs via Keep/Throttle/Kill decisions.
+I’m the founder of Cripsis Logic, where I build entropy-driven infrastructure, secure communications logic, and boundary orchestration systems. My current open-source surface is a three-layer chain: a Rust OS-RNG entropy engine, a Go HTTP gateway, and a Python control plane that gates jobs via Keep/Throttle/Kill decisions.
 
 My background combines hands-on systems engineering with operational experience, so I care about code that survives real adversaries, not just benchmarks. I’m comfortable living across Rust, Go, Python, and Linux, wiring telemetry, CI, and clean interfaces between components. If you care about reliability, security, and clear control surfaces, we’re aligned.
 
